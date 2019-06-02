@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlacesApp</string>
+    <string name="select_with_intent">Select with Intent</string>
+</resources>
